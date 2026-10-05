@@ -1,0 +1,16 @@
+﻿{
+  "version": 1.01,
+  "fanart": [
+    {
+      "file": "fanart/Untitled524_20250910232742.png",
+      "artists": [
+        {
+          "name": "ArtistName",
+          "twitter": "@theirhandle",
+          "link": "https://twitter.com/theirhandle"
+        }
+      ]
+    }
+  ],
+  "loadingscreens": []
+}

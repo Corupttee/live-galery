@@ -1,5 +1,5 @@
-﻿{
-  "version": 1.3,
+{
+  "version": 1.4,
   "fanart": [
     {
       "file": "fanart/Untitled524_20250910232742.png",
@@ -8,6 +8,18 @@
           "name": "Nauba",
           "twitter": "@idk",
           "link": "https://twitter.com/idk"
+        }
+      ]
+    },
+
+    {
+      "file": "fanart/1791300924577_946849647480168488_IMG_1551.png",
+      "description": "Bopter and Bojett",
+      "artists": [
+        {
+          "name": "engaged_artist",
+          "twitter": "",
+          "link": ""
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "version": 1.6,
+  "version": 1.7,
   "fanart": [
     {
       "file": "fanart/1791300924577_946849647480168488_IMG_1551.png",
@@ -20,6 +20,17 @@
       "artists": [
         {
           "name": "Netba",
+          "twitter": "",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "file": "loadingscreens/1791313075171_1118507166857433189_IMG_1616.png",
+      "description": "grief verification/ new top 1",
+      "artists": [
+        {
+          "name": "me",
           "twitter": "",
           "link": ""
         }

@@ -1,5 +1,5 @@
 {
-  "version": 1.5,
+  "version": 1.6,
   "fanart": [
     {
       "file": "fanart/1791300924577_946849647480168488_IMG_1551.png",
@@ -13,5 +13,17 @@
       ]
     }
   ],
-  "loadingscreens": []
+  "loadingscreens": [
+    {
+      "file": "loadingscreens/1791311872399_946849647480168488_409da4144052527.62bbaaadcaa9f.png",
+      "description": "idk",
+      "artists": [
+        {
+          "name": "Netba",
+          "twitter": "",
+          "link": ""
+        }
+      ]
+    }
+  ]
 }
